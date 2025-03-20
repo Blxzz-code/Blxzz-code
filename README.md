@@ -2,13 +2,14 @@
 
 [![Blxzz-code banner](Github_banner.png)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/poeseeker/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 
 Arte y código, creatividad y tecnología. Enfoque en desarrollo web, diseño y cultura digital, explorando nuevas ideas e innovaciones
 
 
 🚀🎨💻
+
+Portfolio web: https://polite-croissant-950887.netlify.app
 
 ![Blxzz-code banner](gitcodeportimage.png)
 
