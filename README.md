@@ -9,7 +9,7 @@ Arte y código, creatividad y tecnología. Enfoque en desarrollo web, diseño y 
 
 🚀🎨💻
 
-Portfolio web: https://polite-croissant-950887.netlify.app
+Portfolio web: https://enchanting-wisp-006d1a.netlify.app
 
 ![Blxzz-code banner](gitcodeportimage.png)
 
