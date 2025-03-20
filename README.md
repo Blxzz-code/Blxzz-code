@@ -9,7 +9,7 @@ Arte y código, creatividad y tecnología. Enfoque en desarrollo web, diseño y 
 
 🚀🎨💻
 
-Portfolio web: https://enchanting-wisp-006d1a.netlify.app
+Portfolio web: https://symphonious-belekoy-ff5769.netlify.app
 
 ![Blxzz-code banner](gitcodeportimage.png)
 
