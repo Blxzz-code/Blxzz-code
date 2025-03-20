@@ -5,7 +5,9 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-Arte y código, creatividad y tecnología. Enfoque en desarrollo web, diseño y cultura digital, explorando nuevas ideas e innovaciones. 
+Arte y código, creatividad y tecnología. Enfoque en desarrollo web, diseño y cultura digital, explorando nuevas ideas e innovaciones
+
+
 🚀🎨💻
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
