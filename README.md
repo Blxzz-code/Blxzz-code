@@ -4,10 +4,8 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/poeseeker/)
 
 
-Arte y código, creatividad y tecnología. Enfoque en desarrollo web, diseño y cultura digital, explorando nuevas ideas e innovaciones
+Full Stack Developer con mentalidad analítica y creativa. Experiencia en backend (Java, Spring Boot, Node.js) y frontend (React, WebGL, Three.js). Me interesan los sistemas distribuidos, la visualización 3D y los entornos inmersivos. Siempre buscando expandir los límites entre arte y código.
 
-
-🚀🎨💻
 
 Portfolio web: https://symphonious-belekoy-ff5769.netlify.app
 
