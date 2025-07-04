@@ -4,7 +4,7 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/poeseeker/)
 
 
-Desarrollador apasionado por las matemáticas, el arte y la programación, combino creatividad y pensamiento lógico para abordar problemas complejos desde múltiples enfoques.Me especializo en desarrollo full-stack, con una base sólida en redes, arquitecturas web y tecnologías como Java, Spring Boot, Node.js, React y MySQL.
+Desarrollador apasionado por las matemáticas, el arte y la programación, combino creatividad y pensamiento lógico para abordar problemas complejos desde múltiples enfoques.Me especializo en desarrollo full-stack, con una base sólida en redes, arquitecturas web y tecnologías como Java, Spring Boot, Node.js, React y SQL.
 
 Siempre en búsqueda de proyectos que integren diseño, tecnología y desafío intelectual.
 
