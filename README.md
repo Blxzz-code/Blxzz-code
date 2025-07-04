@@ -1,4 +1,4 @@
-# Creative Secure Structured Coding <img src="https://media.giphy.com/media/Gcr1rbIWXXcLvLy6vO/giphy.gif?cid=ecf05e47jny38zkeanfm6vzicv4nike37006hc10g1r48igp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/> 
+# Creative Secure Structured Coding <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNud2Y0bDZmcnM0Y2FlOW5yNnJkaXU3bWZrcnl0NTFpZXRjNjBuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IXnygGeB6LPPi/giphy.gif" width="100"/> 
 
 ![Blxzz-code banner](Banner.png)
 
